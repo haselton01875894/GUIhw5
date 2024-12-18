@@ -1,0 +1,19 @@
+//Nick Haselton 01875894
+#board img{
+	padding-left: 4px;
+	padding-top : 25px;
+	padding-bottom:  25px;
+}
+
+#board{
+	z-index : 999999
+}
+
+#letterRack{
+	padding-top: 200px;
+}
+
+#rack{
+	background-color: black;
+	overflow: visible
+}
